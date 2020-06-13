@@ -55,11 +55,11 @@
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Computer Vision: Models, Learning, and Inference](https://github.com/Royal-526/Royal-Collection/blob/master/Computer%20Vision/Computer%20Vision%20Models%2C%20Learning%2C%20and%20Inference%20by%20Dr%20Simon%20J.%20D.%20Prince.pdf)|Simon J. D. Prince|Cambridge Press|
-|[Practical Computer Vision](https://github.com/Royal-526/Royal-Collection/blob/master/Computer%20Vision/Practical%20Computer%20Vision%20Extract%20insightful%20information%20from%20images%20using%20TensorFlow%2C%20Keras%2C%20and%20OpenCV%20by%20Abhinav%20Dadhich.pdf)|Abhinav Dadhich|Packt|
-|[Programming Computer Vision with Python](https://github.com/Royal-526/Royal-Collection/blob/master/Computer%20Vision/Programming%20Computer%20Vision%20with%20Python%20Tools%20and%20algorithms%20for%20analyzing%20images%20by%20Jan%20Erik%20Solem.pdf)|Jan Erik Solem|O’Reilly|
-|[Deep Learning for Computer Vision with Python](https://github.com/Royal-526/Royal-Collection/blob/master/Computer%20Vision/Deep%20Learning%20for%20Computer%20Vision%20with%20Python%20by%20Adrian%20Rosebrock.pdf)|Adrian Rosebrock|PyImageSearch|
-|[Numerical Algorithms:  Methods for Computer Vision, Machine Learning, and Graphics](https://github.com/Royal-526/Royal-Collection/blob/master/Computer%20Vision/Numerical%20algorithms%20%20methods%20for%20computer%20vision%2C%20machine%20learning%2C%20and%20graphics%20by%20Justin%20Solomon.pdf)|Justin Solomon|CRC Press|
+|[Computer Vision: Models, Learning, and Inference](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Computer%20Vision/Computer%20Vision%20Models%2C%20Learning%2C%20and%20Inference%20by%20Dr%20Simon%20J.%20D.%20Prince.pdf)|Simon J. D. Prince|Cambridge Press|
+|[Practical Computer Vision](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Computer%20Vision/Practical%20Computer%20Vision%20Extract%20insightful%20information%20from%20images%20using%20TensorFlow%2C%20Keras%2C%20and%20OpenCV%20by%20Abhinav%20Dadhich.pdf)|Abhinav Dadhich|Packt|
+|[Programming Computer Vision with Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Computer%20Vision/Programming%20Computer%20Vision%20with%20Python%20Tools%20and%20algorithms%20for%20analyzing%20images%20by%20Jan%20Erik%20Solem.pdf)|Jan Erik Solem|O’Reilly|
+|[Deep Learning for Computer Vision with Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Computer%20Vision/Deep%20Learning%20for%20Computer%20Vision%20with%20Python%20by%20Adrian%20Rosebrock.pdf)|Adrian Rosebrock|PyImageSearch|
+|[Numerical Algorithms:  Methods for Computer Vision, Machine Learning, and Graphics](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Computer%20Vision/Numerical%20algorithms%20%20methods%20for%20computer%20vision%2C%20machine%20learning%2C%20and%20graphics%20by%20Justin%20Solomon.pdf)|Justin Solomon|CRC Press|
 
 
 ## 📚 Natural Language Processing
