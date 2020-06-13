@@ -1,4 +1,4 @@
-|![image](https://github.com/Royal-526/Royal-Collection/blob/master/logo.png)|
+|![image](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/logo.png)|
 |---|
 
 
