@@ -66,9 +66,9 @@
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Natural Language Processing with Python](https://github.com/Royal-526/Collection/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Python%20by%20Steven%20Bird%2C%20Ewan%20Klein%2C%20Edward%20Loper.pdf)|Steven Bird, Ewan Klein, Edward Loper|O’Reilly|
-|[Natural Language Processing in Action](https://github.com/Royal-526/Collection/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Action%20Understanding%2C%20analyzing%2C%20and%20generating%20text%20with%20Python%20by%20Hobson%20Lane%2C%20Hannes%20Hapke%2C%20Cole%20Howard.pdf)|Hobson Lane, Hannes Hapke, Cole Howard|Manning|
-|[Deep Learning in Natural Language Processing](https://github.com/Royal-526/Royal-Collection/blob/master/Natural%20Language%20Processing/Deep%20Learning%20in%20Natural%20Language%20Processing%20by%20Li%20Deng%2C%20Yang%20Liu.pdf)|Li Deng, Yang Liu|Springer|
+|[Natural Language Processing with Python](https://github.com/Royal-526/Collection-2.0/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20with%20Python%20by%20Steven%20Bird%2C%20Ewan%20Klein%2C%20Edward%20Loper.pdf)|Steven Bird, Ewan Klein, Edward Loper|O’Reilly|
+|[Natural Language Processing in Action](https://github.com/Royal-526/Collection-2.0/blob/master/Natural%20Language%20Processing/Natural%20Language%20Processing%20in%20Action%20Understanding%2C%20analyzing%2C%20and%20generating%20text%20with%20Python%20by%20Hobson%20Lane%2C%20Hannes%20Hapke%2C%20Cole%20Howard.pdf)|Hobson Lane, Hannes Hapke, Cole Howard|Manning|
+|[Deep Learning in Natural Language Processing](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Natural%20Language%20Processing/Deep%20Learning%20in%20Natural%20Language%20Processing%20by%20Li%20Deng%2C%20Yang%20Liu.pdf)|Li Deng, Yang Liu|Springer|
 
 
 ## 📚 Reinforcement Learning
