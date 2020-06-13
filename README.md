@@ -120,18 +120,18 @@
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Version Control with Git](https://github.com/Royal-526/Royal-Collection/blob/master/Git/Version%20Control%20with%20Git%20Powerful%20tools%20and%20techniques%20for%20collaborative%20software%20development%20by%20Jon%20Loeliger%2C%20Matthew%20McCullough.pdf)|Jon Loeliger, Matthew McCullough|O’Reilly|
-|[Git for Teams](https://github.com/Royal-526/Royal-Collection/blob/master/Git/Git%20for%20Teams%20A%20User-Centered%20Approach%20to%20Creating%20Efficient%20Workflows%20in%20Git%20by%20Emma%20Jane%20Hogbin%20Westby.pdf)|Emma Jane, Hogbin Westby|O’Reilly|
+|[Version Control with Git](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Git/Version%20Control%20with%20Git%20Powerful%20tools%20and%20techniques%20for%20collaborative%20software%20development%20by%20Jon%20Loeliger%2C%20Matthew%20McCullough.pdf)|Jon Loeliger, Matthew McCullough|O’Reilly|
+|[Git for Teams](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Git/Git%20for%20Teams%20A%20User-Centered%20Approach%20to%20Creating%20Efficient%20Workflows%20in%20Git%20by%20Emma%20Jane%20Hogbin%20Westby.pdf)|Emma Jane, Hogbin Westby|O’Reilly|
 
 
 ## 📚 Go
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Introducing Go](https://github.com/Royal-526/Royal-Collection/blob/master/Go/Introducing%20Go%20Build%20Reliable%2C%20Scalable%20Programs%20by%20Caleb%20Doxsey.pdf)|Caleb Doxsey|O’Reilly|
-|[Concurrency in Go](https://github.com/Royal-526/Royal-Collection/blob/master/Go/Concurrency%20in%20Go%20Tools%20and%20Techniques%20for%20Developers%20by%20Katherine%20Cox-Buday.pdf)|Katherine Cox-Buday|O’Reilly|
-|[Go in Action](https://github.com/Royal-526/Royal-Collection/blob/master/Go/Go%20in%20Action%20by%20William%20Kennedy%20with%20Brian%20Ketelsen%2C%20Erik%20St.%20Martin.pdf)|William Kennedy, Brian Ketelsen, Erik St. Martin|Manning|
-|[Go Web Programming](https://github.com/Royal-526/Royal-Collection/blob/master/Go/Go%20Web%20Programming%20by%20Sau%20Sheong%20Chang.pdf)|Sau Sheong Chang|Manning|
+|[Introducing Go](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Go/Introducing%20Go%20Build%20Reliable%2C%20Scalable%20Programs%20by%20Caleb%20Doxsey.pdf)|Caleb Doxsey|O’Reilly|
+|[Concurrency in Go](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Go/Concurrency%20in%20Go%20Tools%20and%20Techniques%20for%20Developers%20by%20Katherine%20Cox-Buday.pdf)|Katherine Cox-Buday|O’Reilly|
+|[Go in Action](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Go/Go%20in%20Action%20by%20William%20Kennedy%20with%20Brian%20Ketelsen%2C%20Erik%20St.%20Martin.pdf)|William Kennedy, Brian Ketelsen, Erik St. Martin|Manning|
+|[Go Web Programming](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Go/Go%20Web%20Programming%20by%20Sau%20Sheong%20Chang.pdf)|Sau Sheong Chang|Manning|
 
 ## 📚 Swift
 
