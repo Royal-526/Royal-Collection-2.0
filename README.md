@@ -6,7 +6,7 @@
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Python Cookbook, 3rd Edition](https://github.com/Royal-526/Collection/blob/master/Python/Python%20Cookbook%2C%203rd%20Edition%20Recipes%20for%20Mastering%20Python%203%20by%20David%20Beazley%2C%20Brian%20K.%20Jones.pdf)|David Beazley, Brian K. Jones|O’Reilly|
+|[Python Cookbook, 3rd Edition](https://github.com/Royal-526/Collection-2.0/blob/master/Python/Python%20Cookbook%2C%203rd%20Edition%20Recipes%20for%20Mastering%20Python%203%20by%20David%20Beazley%2C%20Brian%20K.%20Jones.pdf)|David Beazley, Brian K. Jones|O’Reilly|
 |[Introducing Python](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Introducing%20Python%20Modern%20Computing%20in%20Simple%20Packages%20by%20Bill%20Lubanovic.pdf)|Bill Lubanovic|O’Reilly|
 |[Learning Python, 5th Edition](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Learning%20Python%20powerful%20object-oriented%20programming%20by%20Mark%20Lutz.pdf)|Mark Lutz|O’Reilly|
 |[Fluent Python](https://github.com/Royal-526/Collection/blob/master/Python/Fluent%20Python%20by%20Luciano%20Ramalho.pdf)|Luciano Ramalho|O’Reilly|
