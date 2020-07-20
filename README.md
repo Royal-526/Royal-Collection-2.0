@@ -6,25 +6,25 @@
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Python Cookbook, 3rd Edition](https://github.com/Royal-526/Collection-2.0/blob/master/Python/Python%20Cookbook%2C%203rd%20Edition%20Recipes%20for%20Mastering%20Python%203%20by%20David%20Beazley%2C%20Brian%20K.%20Jones.pdf)|David Beazley, Brian K. Jones|O’Reilly|
-|[Introducing Python](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Introducing%20Python%20Modern%20Computing%20in%20Simple%20Packages%20by%20Bill%20Lubanovic.pdf)|Bill Lubanovic|O’Reilly|
-|[Learning Python, 5th Edition](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Learning%20Python%20powerful%20object-oriented%20programming%20by%20Mark%20Lutz.pdf)|Mark Lutz|O’Reilly|
-|[Fluent Python](https://github.com/Royal-526/Collection/blob/master/Python/Fluent%20Python%20by%20Luciano%20Ramalho.pdf)|Luciano Ramalho|O’Reilly|
-|[Think Python](https://github.com/Royal-526/Collection/blob/master/Python/Think%20Python%20How%20to%20Think%20Like%20a%20Computer%20Scientist%20by%20Allen%20B.%20Downey.pdf)|Allen B. Downey|O’Reilly|
-|[Python Pocket Reference, 5th Edition](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Python%20Pocket%20Reference%2C%205th%20Edition%20Python%20in%20Your%20Pocket%20by%20Mark%20Lutz.pdf)|Mark Lutz|O’Reilly|
-|[Test-Driven Development with Python](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Test-Driven%20Development%20with%20Python%20Obey%20the%20Testing%20Goat%20Using%20Django%2C%20Selenium%2C%20and%20JavaScript%20by%20Percival%2C%20H.J.W..pdf)|Harry J.W. Percival|O’Reilly|
-|[High Performance Python](https://github.com/Royal-526/Royal-Collection/blob/master/Python/High%20Performance%20Python%20Practical%20Performant%20Programming%20for%20Humans%20by%20Micha%20Gorelick%2C%20Ian%20Ozsvald.pdf)|Micha Gorelick, Ian Ozsvald|O’Reilly|
-|[SciPy and NumPy](https://github.com/Royal-526/Royal-Collection/blob/master/Python/SciPy%20and%20NumPy%20An%20Overview%20for%20Developers%20by%20Eli%20Bressert.pdf)|Eli Bressertd|O’Reilly|
-|[Elegant SciPy](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Elegant%20Scipy%20The%20Art%20of%20Scientific%20Python%20by%20Juan%20Nunez-Iglesias%20Ste%CC%81fan%20van%20der%20Walt%20Harriet%20Dashnow.pdf)|Juan Nunez-Iglesias, Stéfan van der Walt, Harriet Dashnow|O’Reilly|
-|[Python for Unix and Linux System Administration](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Python%20for%20Unix%20and%20Linux%20System%20Administration%20by%20Noah%20Gift%2C%20Jeremy%20Jones.pdf)|Noah Gift, Jeremy Jones|O’Reilly|
-|[Practices of the Python Pro](https://github.com/Royal-526/Royal-Collection/blob/master/Python/Practices%20of%20the%20Python%20Pro%20by%20Dane%20Hillard.pdf)|Dane Hillard|Manning|
+|[Python Cookbook, 3rd Edition](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Python%20Cookbook%2C%203rd%20Edition%20Recipes%20for%20Mastering%20Python%203%20by%20David%20Beazley%2C%20Brian%20K.%20Jones.pdf)|David Beazley, Brian K. Jones|O’Reilly|
+|[Introducing Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Introducing%20Python%20Modern%20Computing%20in%20Simple%20Packages%20by%20Bill%20Lubanovic.pdf)|Bill Lubanovic|O’Reilly|
+|[Learning Python, 5th Edition](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Learning%20Python%20powerful%20object-oriented%20programming%20by%20Mark%20Lutz.pdf)|Mark Lutz|O’Reilly|
+|[Fluent Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Fluent%20Python%20by%20Luciano%20Ramalho.pdf)|Luciano Ramalho|O’Reilly|
+|[Think Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Think%20Python%20How%20to%20Think%20Like%20a%20Computer%20Scientist%20by%20Allen%20B.%20Downey.pdf)|Allen B. Downey|O’Reilly|
+|[Python Pocket Reference, 5th Edition](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Python%20Pocket%20Reference%2C%205th%20Edition%20Python%20in%20Your%20Pocket%20by%20Mark%20Lutz.pdf)|Mark Lutz|O’Reilly|
+|[Test-Driven Development with Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Test-Driven%20Development%20with%20Python%20Obey%20the%20Testing%20Goat%20Using%20Django%2C%20Selenium%2C%20and%20JavaScript%20by%20Percival%2C%20H.J.W..pdf)|Harry J.W. Percival|O’Reilly|
+|[High Performance Python](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/High%20Performance%20Python%20Practical%20Performant%20Programming%20for%20Humans%20by%20Micha%20Gorelick%2C%20Ian%20Ozsvald.pdf)|Micha Gorelick, Ian Ozsvald|O’Reilly|
+|[SciPy and NumPy](https://github.com/Royal-526/Royal-Collection-2.0blob/master/Python/SciPy%20and%20NumPy%20An%20Overview%20for%20Developers%20by%20Eli%20Bressert.pdf)|Eli Bressertd|O’Reilly|
+|[Elegant SciPy](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Elegant%20Scipy%20The%20Art%20of%20Scientific%20Python%20by%20Juan%20Nunez-Iglesias%20Ste%CC%81fan%20van%20der%20Walt%20Harriet%20Dashnow.pdf)|Juan Nunez-Iglesias, Stéfan van der Walt, Harriet Dashnow|O’Reilly|
+|[Python for Unix and Linux System Administration](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Python%20for%20Unix%20and%20Linux%20System%20Administration%20by%20Noah%20Gift%2C%20Jeremy%20Jones.pdf)|Noah Gift, Jeremy Jones|O’Reilly|
+|[Practices of the Python Pro](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Python/Practices%20of%20the%20Python%20Pro%20by%20Dane%20Hillard.pdf)|Dane Hillard|Manning|
 
 
 ## 📚 Machine Learning Basics
 
 |Title|Author|Publisher|
 |:---:|:---:|:---:|
-|[Pattern Recognition and Machine Learning](https://github.com/Royal-526/Royal-Collection/blob/master/Machine%20Learning%20Basics/Pattern%20Recognition%20and%20Machine%20Learning%20by%20Christopher%20M.%20Bishop.pdf)|Christopher M. Bishop|Springer|
+|[Pattern Recognition and Machine Learning](https://github.com/Royal-526/Royal-Collection-2.0/blob/master/Machine%20Learning%20Basics/Pattern%20Recognition%20and%20Machine%20Learning%20by%20Christopher%20M.%20Bishop.pdf)|Christopher M. Bishop|Springer|
 |[Machine Learning with Python Cookbook](https://github.com/Royal-526/Royal-Collection/blob/master/Machine%20Learning%20Basics/Machine%20Learning%20with%20Python%20Cookbook%20Practical%20Solutions%20from%20Preprocessing%20to%20Deep%20Learning%20by%20Chris%20Albon%20(z-lib.org).pdf)|Chris Albon|O’Reilly|
 |[Introduction to Machine Learning with Python](https://github.com/Royal-526/Royal-Collection/blob/master/Machine%20Learning%20Basics/Introduction%20to%20Machine%20Learning%20with%20Python%20A%20Guide%20for%20Data%20Scientists%20by%20Andreas%20C.%20Mu%CC%88ller%2C%20Sarah%20Guido.pdf)|Andreas C. Müller, Sarah Guido|O’Reilly|
 |[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://github.com/Royal-526/Royal-Collection/blob/master/Machine%20Learning%20Basics/Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%2C%202nd%20Edition%20by%20Aure%CC%81lien%20Ge%CC%81ron.pdf)|Aurélien Géron|O’Reilly|
